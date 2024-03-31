@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.h1{
+    font-size: 40px;
+}
+
+.para{
+    font-size: 30px;
+}
+.button{
+    width: 100px;
+    height: 30px;
+}
